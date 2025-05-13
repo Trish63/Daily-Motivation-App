@@ -33,4 +33,4 @@ Briefly summarise the work you've done this week here.
 - Frontend: HTML, CSS, JavaScript (Fetch API for data retrieval).
 - Backend: None (using mock data for simplicity).
 - Database: None (using local storage for saved quotes).
-- Communication: Fetch API to get quotes from https://api.quotable.io/random.
+- Communication: Fetch API to get quotes from https://
